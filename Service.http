@@ -1,0 +1,13 @@
+### read the data
+GET http://localhost:4004/odata/v4/customer/Customer
+
+#####Post the data
+POST http://localhost:4004/odata/v4/customer/Customer
+Content-Type: application/json
+
+    {
+      "name": "Kumar",
+      "address": "karwar",
+      "phone": "101",
+      "age": "475"
+    }
