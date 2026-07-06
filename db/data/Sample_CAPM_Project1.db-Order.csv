@@ -1,1 +1,1 @@
-orderId,customer_customerId
+orderId,customer_name_customerId,createdAt,createdBy,modifiedAt,modifiedBy,validFrom
